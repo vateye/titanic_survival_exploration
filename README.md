@@ -1,6 +1,5 @@
 # Machine Learning Engineer Nanodegree
-## Introduction and Foundations
-## Project: Titanic Survival Exploration
+## Project 0: Titanic Survival Exploration
 
 ### Install
 
